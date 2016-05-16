@@ -43,3 +43,7 @@ THE SOFTWARE.
 * Now you have to clic on the right grid to fire your artillery ! One blue case is a fail, a yellow one is a hit and a red case is displayed when you destroy a ship.
 
 You are now ready to play ! Enjoy !
+
+
+
+This game was created for fun. There are still some bugs in it and the game may crash for no reason. This problem should be fixed soon
