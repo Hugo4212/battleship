@@ -1,12 +1,12 @@
-##Battleship##
-==============
+#Battleship#
+----------------------
 Online Battleship video game created for the baccalauréat in ISN option.
 
-##Requirement##
+##Requirements##
 
 This Game require :
-* `python 2.7` with the python library.
-* PHP `5.2+` on yout server.
+* `Python 2.7` with the python library.
+* `PHP 5.2+` on your server.
 
 ##Setup##
 
